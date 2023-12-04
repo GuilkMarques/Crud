@@ -21,18 +21,18 @@
       "id": 4
     },
     {
-      "name": "",
-      "price": 0,
+      "name": "caixa",
+      "price": "200",
       "id": 5
     },
     {
-      "name": "",
-      "price": 0,
+      "name": "caneca",
+      "price": "10",
       "id": 6
     },
     {
-      "name": "",
-      "price": 0,
+      "name": "teclado",
+      "price": "5",
       "id": 7
     },
     {
@@ -46,7 +46,7 @@
       "id": 9
     },
     {
-      "name": "dsg",
+      "name": "seila",
       "price": "21",
       "id": 10
     }
