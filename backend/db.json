@@ -34,21 +34,6 @@
       "name": "teclado",
       "price": "5",
       "id": 7
-    },
-    {
-      "name": "Teste",
-      "price": 50,
-      "id": 8
-    },
-    {
-      "name": "form ",
-      "price": "99.99",
-      "id": 9
-    },
-    {
-      "name": "seila",
-      "price": "21",
-      "id": 10
     }
   ]
 }
